@@ -1,16 +1,11 @@
 #-----------------------------------------------------------------------------
 # Name:        Cliently - Report Generator for Lawyers
-# Purpose:     Cliently is a program that helps lawyers compile a clients information and                      produce a general report for administrative purposes.
+# Purpose:     Cliently is a program that helps lawyers compile a clients information and produce a general report for administrative purposes.
 #
 # Author:      Alex Lu
 # Created:     09-June-2021
 # Updated:     22-June-2021
 #-----------------------------------------------------------------------------
-
-'''
-8) Documentation
-- Indented the description portion of parameters/returns/raises for each function to improve readability (33, 35, 40, 45, 47, 77, 79, 81, 86, 91, 93, 128, 130, 132, 137, 142, 144)
-'''
 
 # Program Starts
 #Import required libraries
