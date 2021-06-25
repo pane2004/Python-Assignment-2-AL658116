@@ -1,0 +1,112 @@
+ 2021-06-18 23:00:35,144 - INFO - billCalc() function beginning with rate of: $300 and 8 consulted
+ 2021-06-18 23:00:35,144 - INFO - The total bill is: 2600
+ 2021-06-18 23:00:35,144 - INFO - billCalc() function beginning with rate of: $0 and 20 consulted
+ 2021-06-18 23:00:35,144 - INFO - The total bill is: 200
+ 2021-06-18 23:00:35,144 - INFO - billCalc() function beginning with rate of: $100000 and 0 consulted
+ 2021-06-18 23:00:35,144 - INFO - The total bill is: 200
+ 2021-06-18 23:00:35,144 - INFO - billCalc() function beginning with rate of: $499.88 and 12.5 consulted
+ 2021-06-18 23:00:35,144 - INFO - The total bill is: 6448.5
+ 2021-06-18 23:00:35,144 - INFO - billCalc() function beginning with rate of: $399.32 and 15 consulted
+ 2021-06-18 23:00:35,144 - INFO - The total bill is: 6189.8
+ 2021-06-18 23:00:35,144 - INFO - billCalc() function beginning with rate of: $200 and 5.32843 consulted
+ 2021-06-18 23:00:35,144 - INFO - The total bill is: 1265.69
+ 2021-06-18 23:00:35,144 - INFO - suggestion() function beginning with the following ratings: 1-strength 1-flexibility 1-communication 
+ 2021-06-18 23:00:35,145 - INFO - The total score is: 3
+ 2021-06-18 23:00:35,145 - INFO - suggestion() function beginning with the following ratings: 10-strength 10-flexibility 10-communication 
+ 2021-06-18 23:00:35,145 - INFO - The total score is: 30
+ 2021-06-18 23:00:35,145 - INFO - suggestion() function beginning with the following ratings: 5-strength 6-flexibility 5-communication 
+ 2021-06-18 23:00:35,145 - INFO - The total score is: 16
+ 2021-06-18 23:00:35,145 - INFO - suggestion() function beginning with the following ratings: 1-strength 8-flexibility 5-communication 
+ 2021-06-18 23:00:35,145 - INFO - The total score is: 14
+ 2021-06-18 23:00:35,145 - INFO - dateCalc() function beginning with the court date: 2021/6/30
+ 2021-06-18 23:00:35,145 - DEBUG - The courtdate is: 2021-06-30
+ 2021-06-18 23:00:35,145 - DEBUG - The todays date is: 2021-06-15
+ 2021-06-18 23:00:35,145 - INFO - The days until the court date: 15
+ 2021-06-18 23:00:35,145 - INFO - dateCalc() function beginning with the court date: 2023/8/9
+ 2021-06-18 23:00:35,145 - DEBUG - The courtdate is: 2023-08-09
+ 2021-06-18 23:00:35,145 - DEBUG - The todays date is: 2021-06-15
+ 2021-06-18 23:00:35,145 - INFO - The days until the court date: 785
+ 2021-06-18 23:00:35,145 - INFO - dateCalc() function beginning with the court date: 2021/6/29
+ 2021-06-18 23:00:35,145 - DEBUG - The courtdate is: 2021-06-29
+ 2021-06-18 23:00:35,145 - DEBUG - The todays date is: 2021-06-15
+ 2021-06-18 23:00:35,145 - INFO - The days until the court date: 14
+ 2021-06-18 23:00:35,145 - INFO - dateCalc() function beginning with the court date: 2021/6/16
+ 2021-06-18 23:00:35,145 - DEBUG - The courtdate is: 2021-06-16
+ 2021-06-18 23:00:35,145 - DEBUG - The todays date is: 2021-06-15
+ 2021-06-18 23:00:35,146 - INFO - The days until the court date: 1
+ 2021-06-18 23:00:35,146 - CRITICAL - Typing keyboard commands anywhere in the console will crash the program
+ 2021-06-18 23:00:37,124 - INFO - The amount of cases entered is: 2
+ 2021-06-18 23:00:37,124 - DEBUG - Current Report: {'Type': 'Criminal', 'Name': 0, 'Criminal Charge': 0, 'Suggested Decision': 0, 'Days Until Court': 0, 'Legal Counsel Cost Due': 0}
+ 2021-06-18 23:00:38,482 - INFO - Name Entered: joe
+ 2021-06-18 23:00:38,482 - DEBUG - Current Report: {'Type': 'Criminal', 'Name': 'joe', 'Criminal Charge': 0, 'Suggested Decision': 0, 'Days Until Court': 0, 'Legal Counsel Cost Due': 0}
+ 2021-06-18 23:00:40,163 - INFO - Rate Entered: 500.0
+ 2021-06-18 23:00:41,411 - INFO - Hours Entered: 4.0
+ 2021-06-18 23:00:41,412 - INFO - billCalc() function beginning with rate of: $500.0 and 4.0 consulted
+ 2021-06-18 23:00:41,412 - INFO - The total bill is: 2200.0
+ 2021-06-18 23:00:41,412 - INFO - Total Bill calculated: 2200.0
+ 2021-06-18 23:00:41,412 - DEBUG - Current Report: {'Type': 'Criminal', 'Name': 'joe', 'Criminal Charge': 0, 'Suggested Decision': 0, 'Days Until Court': 0, 'Legal Counsel Cost Due': 2200.0}
+ 2021-06-18 23:00:45,170 - INFO - Charge Entered: murder
+ 2021-06-18 23:00:45,170 - DEBUG - Current Report: {'Type': 'Criminal', 'Name': 'joe', 'Criminal Charge': 'murder', 'Suggested Decision': 0, 'Days Until Court': 0, 'Legal Counsel Cost Due': 2200.0}
+ 2021-06-18 23:00:47,792 - INFO - Level of strength: 7
+ 2021-06-18 23:00:48,366 - INFO - Level of flexibility: 4
+ 2021-06-18 23:00:48,939 - INFO - Level of communication: 6
+ 2021-06-18 23:00:48,939 - INFO - suggestion() function beginning with the following ratings: 7-strength 4-flexibility 6-communication 
+ 2021-06-18 23:00:48,939 - INFO - The total score is: 17
+ 2021-06-18 23:00:48,940 - INFO - Suggested outcome: Let client decide
+ 2021-06-18 23:00:48,940 - DEBUG - Current Report: {'Type': 'Criminal', 'Name': 'joe', 'Criminal Charge': 'murder', 'Suggested Decision': 'Let client decide', 'Days Until Court': 0, 'Legal Counsel Cost Due': 2200.0}
+ 2021-06-18 23:00:52,260 - INFO - Inputted Court Date: 2021ejfkoanf
+ 2021-06-18 23:00:53,172 - INFO - Inputted Court Date: skdfjnkalsfda
+ 2021-06-18 23:00:56,137 - INFO - Inputted Court Date: 2021-06-30
+ 2021-06-18 23:00:56,138 - INFO - Inputted Date: 2021/6/30
+ 2021-06-18 23:00:56,138 - INFO - dateCalc() function beginning with the court date: 2021/6/30
+ 2021-06-18 23:00:56,138 - DEBUG - The courtdate is: 2021-06-30
+ 2021-06-18 23:00:56,138 - DEBUG - The todays date is: 2021-06-15
+ 2021-06-18 23:00:56,138 - INFO - The days until the court date: 15
+ 2021-06-18 23:00:56,139 - DEBUG - Current Report: {'Type': 'Criminal', 'Name': 'joe', 'Criminal Charge': 'murder', 'Suggested Decision': 'Let client decide', 'Days Until Court': 15, 'Legal Counsel Cost Due': 2200.0}
+ 2021-06-18 23:00:56,140 - DEBUG - Current Report: {'Type': 'Criminal', 'Name': 0, 'Criminal Charge': 0, 'Suggested Decision': 0, 'Days Until Court': 0, 'Legal Counsel Cost Due': 0}
+ 2021-06-18 23:01:20,249 - INFO - Name Entered: joe
+ 2021-06-18 23:01:20,249 - DEBUG - Current Report: {'Type': 'Criminal', 'Name': 'joe', 'Criminal Charge': 0, 'Suggested Decision': 0, 'Days Until Court': 0, 'Legal Counsel Cost Due': 0}
+ 2021-06-18 23:01:21,677 - INFO - Rate Entered: 500.0
+ 2021-06-18 23:01:24,619 - INFO - Rate Entered: 345.0
+ 2021-06-18 23:01:28,945 - INFO - Hours Entered: 4.0
+ 2021-06-18 23:01:28,945 - INFO - billCalc() function beginning with rate of: $345.0 and 4.0 consulted
+ 2021-06-18 23:01:28,945 - INFO - The total bill is: 1580.0
+ 2021-06-18 23:01:28,945 - INFO - Total Bill calculated: 1580.0
+ 2021-06-18 23:01:28,945 - DEBUG - Current Report: {'Type': 'Criminal', 'Name': 'joe', 'Criminal Charge': 0, 'Suggested Decision': 0, 'Days Until Court': 0, 'Legal Counsel Cost Due': 1580.0}
+ 2021-06-18 23:01:31,086 - INFO - Charge Entered: murder
+ 2021-06-18 23:01:31,086 - DEBUG - Current Report: {'Type': 'Criminal', 'Name': 'joe', 'Criminal Charge': 'murder', 'Suggested Decision': 0, 'Days Until Court': 0, 'Legal Counsel Cost Due': 1580.0}
+ 2021-06-18 23:01:32,241 - INFO - Level of strength: 10
+ 2021-06-18 23:01:32,682 - INFO - Level of flexibility: 10
+ 2021-06-18 23:01:33,094 - INFO - Level of communication: 10
+ 2021-06-18 23:01:33,094 - INFO - suggestion() function beginning with the following ratings: 10-strength 10-flexibility 10-communication 
+ 2021-06-18 23:01:33,094 - INFO - The total score is: 30
+ 2021-06-18 23:01:33,094 - INFO - Suggested outcome: Pursue the case
+ 2021-06-18 23:01:33,094 - DEBUG - Current Report: {'Type': 'Criminal', 'Name': 'joe', 'Criminal Charge': 'murder', 'Suggested Decision': 'Pursue the case', 'Days Until Court': 0, 'Legal Counsel Cost Due': 1580.0}
+ 2021-06-18 23:01:38,321 - INFO - Inputted Court Date: 2021-06-31
+ 2021-06-18 23:01:38,321 - INFO - Inputted Date: 2021/6/31
+ 2021-06-18 23:01:38,321 - INFO - dateCalc() function beginning with the court date: 2021/6/31
+ 2021-06-18 23:01:38,321 - ERROR - Day must exist within range of the month
+ 2021-06-18 23:01:43,703 - INFO - Inputted Court Date: 2021-07-20
+ 2021-06-18 23:01:43,703 - INFO - Inputted Date: 2021/7/20
+ 2021-06-18 23:01:43,703 - INFO - dateCalc() function beginning with the court date: 2021/7/20
+ 2021-06-18 23:01:43,704 - DEBUG - The courtdate is: 2021-07-20
+ 2021-06-18 23:01:43,704 - DEBUG - The todays date is: 2021-06-15
+ 2021-06-18 23:01:43,704 - INFO - The days until the court date: 35
+ 2021-06-18 23:01:43,704 - DEBUG - Current Report: {'Type': 'Criminal', 'Name': 'joe', 'Criminal Charge': 'murder', 'Suggested Decision': 'Pursue the case', 'Days Until Court': 35, 'Legal Counsel Cost Due': 1580.0}
+ 2021-06-18 23:01:47,714 - INFO - The amount of cases entered is: 0
+ 2021-06-18 23:01:49,891 - INFO - The amount of cases entered is: 1
+ 2021-06-18 23:01:51,038 - INFO - Name Entered: joe
+ 2021-06-18 23:01:51,039 - DEBUG - Current Report: {'Type': 'Filing', 'Name': 'joe', 'Days Until Deadline': 0, 'Filing Fee': 0}
+ 2021-06-18 23:01:52,624 - INFO - Rate Entered: 500.0
+ 2021-06-18 23:01:53,729 - INFO - Hours Entered: 34.0
+ 2021-06-18 23:01:53,729 - INFO - billCalc() function beginning with rate of: $500.0 and 34.0 consulted
+ 2021-06-18 23:01:53,730 - INFO - The total bill is: 17200.0
+ 2021-06-18 23:01:53,730 - INFO - Total Bill calculated: 17200.0
+ 2021-06-18 23:01:53,730 - DEBUG - Current Report: {'Type': 'Filing', 'Name': 'joe', 'Days Until Deadline': 0, 'Filing Fee': 17200.0}
+ 2021-06-18 23:01:56,386 - INFO - Inputted deadline date: 2021-06-30
+ 2021-06-18 23:01:56,386 - INFO - Inputted Date: 2021/6/30
+ 2021-06-18 23:01:56,386 - INFO - dateCalc() function beginning with the court date: 2021/6/30
+ 2021-06-18 23:01:56,386 - DEBUG - The courtdate is: 2021-06-30
+ 2021-06-18 23:01:56,386 - DEBUG - The todays date is: 2021-06-15
+ 2021-06-18 23:01:56,386 - INFO - The days until the court date: 15
+ 2021-06-18 23:01:56,386 - DEBUG - Current Report: {'Type': 'Filing', 'Name': 'joe', 'Days Until Deadline': 15, 'Filing Fee': 17200.0}
